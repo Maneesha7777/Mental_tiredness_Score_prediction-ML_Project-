@@ -180,6 +180,7 @@ The dataset used in this project was obtained from Kaggle.
 
 
 Mental-Tiredness-Score-Prediction/
+--text
 │
 ├── app.py
 ├── model_pipe.pkl
@@ -196,8 +197,8 @@ Mental-Tiredness-Score-Prediction/
     ├── homepage2.png
     ├── prediction_result.png
     ├── actual_vs_predicted.png
-    └── residual_plot.png
-
+    └── residual_plot.png ---
+          
 ## 📝 Conclusion
 
 This project developed a machine learning system to predict Mental Tiredness Scores using work activity, lifestyle, sleep, workload, and environmental factors.
