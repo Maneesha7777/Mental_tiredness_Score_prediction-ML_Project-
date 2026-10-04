@@ -117,14 +117,19 @@ XGBoost was selected as the final model because it achieved the lowest RMSE and 
 
 ---
 ## 📸 Application Screenshots
+## 📸 Application Screenshots
 
-### 🏠 Home Page
+### 🏠 Home Page - 1
 
-The Streamlit application provides an interactive interface where users can enter work, lifestyle, sleep, workload, and environmental information.
+![Mental Tiredness Prediction - Home Page 1](Screenshots/Homepage1.png)
 
-![Mental Tiredness Prediction - Home Page](Screenshots/Home_page1.png)
+### 🏠 Home Page - 2
 
-![Mental Tiredness Prediction - Home Page](Screenshots/Home_page2.png)
+![Mental Tiredness Prediction - Home Page 2](Screenshots/Homepage2.png)
+
+### 🎯 Prediction Result
+
+![Mental Tiredness Prediction - Prediction Result](screenshots/prediction_result.png)
 ---
 
 ### 🎯 Prediction Result
