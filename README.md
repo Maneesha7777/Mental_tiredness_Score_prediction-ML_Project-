@@ -46,6 +46,51 @@ The main objective of this project is to:
 
 ---
 
+## 🔎 Exploratory Data Analysis
+
+The dataset was explored to understand its structure and identify patterns in the data.
+
+The analysis included:
+
+- Dataset structure and data types
+- Summary statistics
+- Missing value analysis
+- Duplicate checking
+- Distribution analysis
+- Feature relationships
+- Correlation analysis
+- Outlier detection
+- Data visualization
+
+## 🧹 Data Preprocessing
+
+The following preprocessing steps were performed:
+
+- Checked for missing values.
+- Checked for duplicate records.
+- Examined feature data types.
+- Analyzed and handled outliers.
+- Prepared the features for Machine Learning.
+- Prepared the target variable for regression.
+
+## ⚙️ Feature Engineering
+
+Additional features were created to provide the model with more meaningful information.
+
+### Deep Sleep Hours
+
+Deep sleep hours were calculated using:
+
+Deep Sleep Hours = Sleep Hours × Deep Sleep Percentage / 100
+
+### Interruption Load
+
+An interruption-related feature was created using:
+
+Interruption Load = Context Switch Count + Notifications Received
+
+These engineered features were used during model training and prediction.
+
 ## 📊 Features Used
 
 The model uses the following features:
@@ -133,6 +178,9 @@ XGBoost was selected as the final model because it achieved the lowest RMSE and 
 After entering the required information, the application predicts the user's Mental Tiredness Score.
 
 ![Mental Tiredness Prediction - Result](Screenshots/prediction_result.png)
+
+---
+
 ## 📊 Model Visualization
 
 ### Actual vs Predicted
@@ -169,13 +217,26 @@ Users can enter:
 The application then predicts the expected Mental Tiredness Score.
 
 ---
-
 ## 📊 Dataset Resource
 
-The dataset used in this project was obtained from Kaggle.
+The dataset used in this project was obtained from:
 
-🔗 **Dataset:**
-(https://drive.google.com/file/d/1X98TSUfLowKt4F97PyiHxbRg41jZaXb_/view?usp=sharing)
+🔗 **Dataset:** [DATASET-LINK](https://drive.google.com/file/d/1X98TSUfLowKt4F97PyiHxbRg41jZaXb_/view?usp=sharing)
+
+
+---
+
+### 18. How to Run Locally
+
+Keep this section.
+
+```markdown
+## 💻 How to Run Locally
+
+### 1. Clone the repository
+
+```bash
+git clone YOUR-GITHUB-REPOSITORY-LINK
 
 ## 📂 Project Structure
 
