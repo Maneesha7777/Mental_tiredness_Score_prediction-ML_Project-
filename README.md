@@ -229,7 +229,7 @@ The dataset used in this project was obtained from:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR-GITHUB-REPOSITORY-LINK
+git clone https://github.com/Maneesha7777/Mental_tiredness_Score_prediction-ML_Project-.git
 ```
 ### 2. Navigate to the project folder
 ```bash
