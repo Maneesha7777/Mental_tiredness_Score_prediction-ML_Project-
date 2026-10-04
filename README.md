@@ -247,6 +247,15 @@ The application will open in your browser, where you can enter the required deta
 
 ---
 
+## 🔮 Future Improvements
+
+- Collect more real-world data.
+- Improve model performance through further tuning.
+- Add feature importance visualization.
+- Add personalized recommendations based on predicted tiredness level.
+- Improve the Streamlit user interface.
+- Experiment with additional Machine Learning algorithms.
+
 ## 📂 Project Structure
 
 ```text
