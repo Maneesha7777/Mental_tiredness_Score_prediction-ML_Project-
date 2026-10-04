@@ -24,7 +24,7 @@ The project was developed using Python and several regression algorithms, with X
 
 The main objective of this project is to:
 
-- Predict mental tiredness score using machine learning.
+- Analyze the relationship between different features and mental tiredness.
 - Identify important factors associated with mental tiredness.
 - Compare different regression models.
 - Select the best-performing model based on evaluation metrics.
@@ -221,8 +221,7 @@ The application then predicts the expected Mental Tiredness Score.
 
 The dataset used in this project was obtained from:
 
-🔗 **Dataset:** [DATASET-LINK](https://drive.google.com/file/d/1X98TSUfLowKt4F97PyiHxbRg41jZaXb_/view?usp=sharing)
-
+🔗 **[Dataset Resource](https://drive.google.com/file/d/1X98TSUfLowKt4F97PyiHxbRg41jZaXb_/view?usp=sharing)**
 
 ---
 ## ▶️ How to Run Locally
@@ -232,15 +231,15 @@ The dataset used in this project was obtained from:
 ```bash
 git clone YOUR-GITHUB-REPOSITORY-LINK
 ```
-### 2.Navigate to the project folder
+### 2. Navigate to the project folder
 ```bash
 cd Mental-Tiredness-Score-Prediction
 ```
-### 3.Install the required dependencies
+### 3. Install the required dependencies
 ```bash
 pip install -r requirements.txt
 ```
-### 4.Run the Streamlit application
+### 4. Run the Streamlit application
 ```bash
 streamlit run app.py
 ```
@@ -289,5 +288,6 @@ This project demonstrates the application of data preprocessing, exploratory dat
 
 B.Tech – Artificial Intelligence & Machine Learning
 
-📌 GitHub:[GITHUB-PROFILE-LINK  ](https://github.com/Maneesha7777))
-📌 LinkedIn: [LINKEDIN-PROFILE-LINK](https://www.linkedin.com/in/maneesha-gourigari)
+📌 **GitHub:** [Maneesha Gourigari](https://github.com/Maneesha7777)
+
+📌 **LinkedIn:** [Maneesha Gourigari](https://www.linkedin.com/in/maneesha-gourigari)
