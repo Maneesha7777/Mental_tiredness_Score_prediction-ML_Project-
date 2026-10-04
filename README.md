@@ -218,5 +218,5 @@ This project demonstrates the application of data preprocessing, exploratory dat
 
 B.Tech – Artificial Intelligence & Machine Learning
 
-📌 GitHub:[ YOUR-GITHUB-PROFILE-LINK  ](https://github.com/Maneesha7777))
-📌 LinkedIn: [YOUR-LINKEDIN-PROFILE-LINK](https://www.linkedin.com/in/maneesha-gourigari)
+📌 GitHub:[GITHUB-PROFILE-LINK  ](https://github.com/Maneesha7777))
+📌 LinkedIn: [LINKEDIN-PROFILE-LINK](https://www.linkedin.com/in/maneesha-gourigari)
