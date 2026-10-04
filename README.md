@@ -116,7 +116,7 @@ XGBoost was selected as the final model because it achieved the lowest RMSE and 
 - MSE: **38.0106**
 
 ---
-## 📸 Application Screenshots
+
 ## 📸 Application Screenshots
 
 ### 🏠 Home Page - 1
@@ -127,10 +127,6 @@ XGBoost was selected as the final model because it achieved the lowest RMSE and 
 
 ![Mental Tiredness Prediction - Home Page 2](Screenshots/Homepage2.png)
 
-### 🎯 Prediction Result
-
-![Mental Tiredness Prediction - Prediction Result](screenshots/prediction_result.png)
----
 
 ### 🎯 Prediction Result
 
@@ -183,9 +179,8 @@ The dataset used in this project was obtained from Kaggle.
 
 ## 📂 Project Structure
 
-
+```text
 Mental-Tiredness-Score-Prediction/
---text
 │
 ├── app.py
 ├── model_pipe.pkl
@@ -202,7 +197,8 @@ Mental-Tiredness-Score-Prediction/
     ├── homepage2.png
     ├── prediction_result.png
     ├── actual_vs_predicted.png
-    └── residual_plot.png ---
+    └── residual_plot.png
+```
           
 ## 📝 Conclusion
 
