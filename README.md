@@ -269,7 +269,13 @@ Mental-Tiredness-Score-Prediction/
     ├── actual_vs_predicted.png
     └── residual_plot.png
 ```
-          
+## ⚠️ Disclaimer
+
+This project is developed for educational and demonstration purposes.
+
+The predicted Mental Tiredness Score should not be considered a medical or psychological diagnosis. The model provides predictions based on the data and features used during training.
+
+
 ## 📝 Conclusion
 
 This project developed a machine learning system to predict Mental Tiredness Scores using work activity, lifestyle, sleep, workload, and environmental factors.
