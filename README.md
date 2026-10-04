@@ -225,18 +225,28 @@ The dataset used in this project was obtained from:
 
 
 ---
-
-### 18. How to Run Locally
-
-Keep this section.
-
-```markdown
-## 💻 How to Run Locally
+## ▶️ How to Run Locally
 
 ### 1. Clone the repository
 
 ```bash
 git clone YOUR-GITHUB-REPOSITORY-LINK
+```
+### 2.Navigate to the project folder
+```bash
+cd Mental-Tiredness-Score-Prediction
+```
+### 3.Install the required dependencies
+```bash
+pip install -r requirements.txt
+```
+### 4.Run the Streamlit application
+```bash
+streamlit run app.py
+```
+The application will open in your browser, where you can enter the required details and get the predicted Mental Tiredness Score.
+
+---
 
 ## 📂 Project Structure
 
