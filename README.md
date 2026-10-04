@@ -129,7 +129,7 @@ Screenshots/Actual vs Predicted.png
 
 The residual plot helps examine the prediction errors of the XGBoost model.
 
-![Residual Plot](Screenshots/Residual_plot.png)
+![Residual Plot](Screenshots/residual_plot.png)
 
 ---
 
