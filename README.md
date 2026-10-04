@@ -122,6 +122,7 @@ XGBoost was selected as the final model because it achieved the lowest RMSE and 
 The Actual vs Predicted plot shows how closely the predicted mental tiredness scores follow the actual scores.
 
 ![Actual vs Predicted](Screenshots/Actual vs Predicted.png)
+Screenshots/Actual vs Predicted.png
 
 
 ### Residual Plot
